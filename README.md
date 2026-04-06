@@ -1,4 +1,13 @@
-## Hi there 👋
+### About me
+
+A Grade 2020 CST Student in Sun  University.
+
+Great fan for Flutter!
+
+Lots to do & lots to learn.
+
+Contact me at:
+- `Email Addr` : zhangchy88@mail2.sysu.edu.cn
 
 <!--
 **zechai/zechai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
